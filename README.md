@@ -15,4 +15,6 @@ A program that outputs basic statistics of a given sample of quantum dot (QD) TE
 You will be shown the first image to process with each quantum dot higlighted. Select any QDs that you do not want to be included in the final results.
 
 
-![Screenshot](.idea/Example Output.jpg)
+![Screenshot](Example-Output.jpg)
+
+After this, click enter and you will be presented with the next image. Repeat this process until no more images are shown. Now you are done! Just look at the output folder for the results.
